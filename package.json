@@ -1,0 +1,22 @@
+{
+  "name": "amp",
+  "version": "0.0.1",
+  "description": "AMP",
+  "main": "custom.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atefBB/amp.git"
+  },
+  "keywords": [
+    "AMP"
+  ],
+  "author": "Atef Ben Ali <atef.bettaib@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atefBB/amp/issues"
+  },
+  "homepage": "https://github.com/atefBB/amp#readme"
+}
